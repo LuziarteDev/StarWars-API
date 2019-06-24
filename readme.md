@@ -1,3 +1,5 @@
+Basta instalar a migrate para funcionamento!
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
