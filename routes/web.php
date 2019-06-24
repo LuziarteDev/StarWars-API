@@ -12,7 +12,7 @@
 */
 
 $router->get('/', function (){
-    return 'The things that still do not have number, and why they have not been discovered';
+    return 'The things that still do not have number, is because they have not been discovered';
 });
 
 //get all planets
